@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UPeUActionBar</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="action_share">Compartir</string>
+    <string name="action_favorite">Favorito</string>
+    <string name="action_logout">Salir</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_goActivitySecond">Ir a Actividad 2</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_base_menu">BaseMenuActivity</string>
+    <string name="msg_compartir">Te comparto esta imagen que me gusto</string>
+
+</resources>

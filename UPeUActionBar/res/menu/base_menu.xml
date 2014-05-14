@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    <item
+        android:id="@+id/action_share"
+        android:icon="@drawable/ic_action_share"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/action_share"/>
+    <item
+        android:id="@+id/action_favorite"
+        android:icon="@drawable/ic_action_not_important"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/action_favorite"/>
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_logout"/>
+    <item
+        android:id="@+id/action_activitySecond"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_goActivitySecond"/>
+
+</menu>
